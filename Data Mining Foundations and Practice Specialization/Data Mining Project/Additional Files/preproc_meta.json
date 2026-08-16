@@ -1,0 +1,34 @@
+{
+  "n_raw": 1516948,
+  "n_grid": 1841760,
+  "n_synth": 337653,
+  "n_gap_rows": 325116,
+  "n_gaps": 331,
+  "gap_total_hours": 909.5175,
+  "n_frozen": 2021,
+  "offsets": {
+    "TP2": -0.0120000000000004,
+    "DV_pressure": -0.0199999999999995
+  },
+  "offset_rejected": {
+    "H1": 8.644
+  },
+  "flicker_removed": {
+    "COMP": 12040,
+    "DV_eletric": 9584,
+    "Towers": 24808,
+    "MPG": 9418,
+    "LPS": 7,
+    "Pressure_switch": 22479,
+    "Oil_level": 14358,
+    "Caudal_impulses": 14352
+  },
+  "timings": {
+    "load": 5.187312491,
+    "grid": 7.178597112000006,
+    "offset": 0.11772975200000246,
+    "median_filter": 2.0868007429999977,
+    "debounce": 0.6047220899999957,
+    "frozen": 0.43291233100001136
+  }
+}
